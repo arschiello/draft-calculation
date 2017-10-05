@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Acumatica ERP\ERP3\App_Data\Projects\DraftCalculation\DraftCalculation.sln"
